@@ -1,10 +1,10 @@
 package ru.sultanov.purchase;
 
-public class Goods {
+public class Good {
     protected double cost;
     int amount;
 
-    public Goods(int amount) { // Конструктор с внешним параметром количества
+    public Good(int amount) { // Конструктор с внешним параметром количества
         this.amount = amount;
     }
 

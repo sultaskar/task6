@@ -1,6 +1,6 @@
 package ru.sultanov.purchase;
 
-public class Pizza extends Goods {
+public class Pizza extends Good {
 
     public Pizza(int amount) {
         super(amount);

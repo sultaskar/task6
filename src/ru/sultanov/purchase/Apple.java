@@ -1,6 +1,6 @@
 package ru.sultanov.purchase;
 
-public class Apple extends Goods {
+public class Apple extends Good {
 
     private double appleWeight = 0.18; // Вес яблока
 
